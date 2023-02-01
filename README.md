@@ -11,3 +11,19 @@ this `repo` is `aimed` to revive becuz if you dont KNOW me i technically revive 
 none of these addresses are updated, and some are to advanced for you 0 braincell niggas 💀
 
 if you fail to find an address *go fuck yourself* ngl who cares thats not my fault really...
+
+side note: `luau` (the whole fucking folder) needs to be updated every week unless you have a big brain and know how to use `__inline``
+
+# usage
+
+update as said above.
+
+compile in `release x86`.
+
+file compiled in 'Release\' directory.
+
+# credits
+
+**deadlocust** - started trend / some base help
+
+**speedstarskiwi** - rest of code / reviving old shit
