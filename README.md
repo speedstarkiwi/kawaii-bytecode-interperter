@@ -10,10 +10,9 @@ this `repo` is `aimed` to revive becuz if you dont KNOW me i technically revive 
 
 none of these addresses are updated, and some are to advanced for you 0 braincell niggas 💀
 
-if you fail to find an address *go fuck yourself* ngl who cares thats not my fault really...
+if you fail to find an address then use at least 1 brain cell to figure it out or **GET SOME HELP**
 
-side note: `luau` (the whole fucking folder) needs to be updated every week unless you have a big brain and know how to use `__inline``
-
+side note: `luau` (the whole fucking folder) needs to be updated every week unless you have a big brain and know how to use `__inline` which i doubt you do.
 # usage
 
 update as said above.
