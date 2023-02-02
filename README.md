@@ -21,6 +21,14 @@ compile in `release x86`.
 
 file compiled in 'Release\' directory.
 
+# tutorial
+
+first, update your addresses! thats like the **main** thing to do!
+
+secondly, rename the strings! if your gonna skid, at least make it less obvious.
+
+lastly, compile up and execute! (note: we dont use pipes but u can add it not hard)
+
 # credits
 
 **deadlocust** - started trend / some base help
