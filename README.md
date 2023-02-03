@@ -8,7 +8,7 @@ this `repo` is `aimed` to revive becuz if you dont KNOW me i technically revive 
 
 # not updated
 
-none of these addresses are updated, and some are to advanced for you 0 braincell niggas 💀
+none of these addresses are updated, and some are too advanced for you 0 braincell niggas 💀
 
 if you fail to find an address then use at least 1 brain cell to figure it out or **GET SOME HELP**
 
@@ -36,3 +36,9 @@ lastly, compile up and execute! (note: we dont use pipes but u can add it not ha
 **speedstarskiwi** - rest of code / reviving old shit
 
 **nezyghoul** - task scheduler scanning / luau files
+
+# IMPORTANT!
+
+I know a **LOT** of people will skip this saying *oh no the Lua C functions wont work*, because `inline` is a shit task i dont prefer using, we use the `lua_State` as the `uintptr_t` state.
+
+People dont know how to update it so I suggest using `__inline` and if you dont know where just type *Roblox Inlined Functions* on google and just paste em. Dont ask me for inline help.
