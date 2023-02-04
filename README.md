@@ -39,6 +39,8 @@ lastly, compile up and execute! (note: we dont use pipes but u can add it not ha
 
 # IMPORTANT!
 
+The interperter part is **BROKEN** because of the lack of time. This is because the VM is being feed the bytecode in a `wrong` way. I didnt fix it for 2 reasons: 1) Not a good idea to fix everything for a free source 2) I tried my best and it just wont feed the right way also a lack of time.
+
 I know a **LOT** of people will skip this saying *oh no the Lua C functions wont work*, because `inline` is a shit task i dont prefer using, we use the `lua_State` as the `uintptr_t` state.
 
 People dont know how to update it so I suggest using `__inline` and if you dont know where just type *Roblox Inlined Functions* on google and just paste em. Dont ask me for inline help.
